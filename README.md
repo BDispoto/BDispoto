@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋 I'm Ben. I'm currently in training with Tech Elevator for full-stack development!
 
 <!--
 **BDispoto/BDispoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
