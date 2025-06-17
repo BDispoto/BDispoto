@@ -1,4 +1,4 @@
-### Hey 👋 I'm Ben. I'm currently in training with Tech Elevator for full-stack development!
+### Hey 👋 I'm Ben. I've recently completed a full-stack Java bootcamp at Tech Elevator, and now I'm seeking to grow my craft!
 
 <!--
 **BDispoto/BDispoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
